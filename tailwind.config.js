@@ -7,6 +7,9 @@ module.exports = {
       padding: '16px',
     },
     extend: {
+      fontFamily: {
+        poppins: ['Poppins', 'sans-serif'],
+      },
       colors: {
         primary: '#14b8a6',
         secondary: '#64748b',
